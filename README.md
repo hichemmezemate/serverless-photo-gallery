@@ -31,6 +31,8 @@ Cible : développeurs souhaitant déployer une galerie photo privée à coût qu
 
 ## Architecture
 
+<img width="8192" height="2690" alt="Architecture" src="https://github.com/user-attachments/assets/79fbd2c3-748b-46ea-a2dd-7dbb6e04a8a7" />
+
 ---
 
 ## Stack technique
@@ -52,6 +54,8 @@ Cible : développeurs souhaitant déployer une galerie photo privée à coût qu
 
 ## Structure du projet
 
+<img width="4118" height="3346" alt="Structure du projet" src="https://github.com/user-attachments/assets/0628f355-ab43-4a4c-94bb-9cb7387bd5d7" />
+
 
 ```
 gallery-frontend/
@@ -70,6 +74,8 @@ lambdas/
 ---
 
 ## Flux de données
+<img width="8192" height="3868" alt="Mermaid Chart - Create complex, visual diagrams with text -2026-03-31-113127" src="https://github.com/user-attachments/assets/1400af70-dbe7-403a-813d-b5b7cfc44b50" />
+
 
 ---
 
