@@ -4,6 +4,8 @@
 
 > Galerie photo privée serverless — upload direct vers S3, pipeline de miniatures automatisé, authentification JWT via Cognito.
 
+URL : https://d19v2fo4sjqv87.cloudfront.net/
+
 ---
 
 ## Table des matières
